@@ -1,9 +1,9 @@
 # Cuacker
 
-Algoritmos y Estructuras de Datos 1
+Algoritmos y Estructuras de Datos 1  
 (Curso 2018 - 2019)
 
-Grado en Ingeniería Informática
+Grado en Ingeniería Informática  
 Universidad de Murcia
 
 Por: Juan Francisco Carrión Molina y Eloy Abellán Mayor
